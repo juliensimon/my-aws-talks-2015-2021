@@ -1,5 +1,37 @@
 # AWS Talks 2015-2021
 
+[![AWS Technical Evangelist](https://img.shields.io/badge/AWS-Technical%20Evangelist-red.svg)](https://github.com/juliensimon/aws-talks-2015-2021)
+[![Amazon SageMaker](https://img.shields.io/badge/Amazon-SageMaker-orange.svg)](https://aws.amazon.com/sagemaker/)
+[![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-yellow.svg)](https://aws.amazon.com/lambda/)
+[![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-blue.svg)](https://aws.amazon.com/ec2/)
+[![AWS IoT](https://img.shields.io/badge/AWS-IoT-green.svg)](https://aws.amazon.com/iot/)
+[![Amazon Rekognition](https://img.shields.io/badge/Amazon-Rekognition-purple.svg)](https://aws.amazon.com/rekognition/)
+[![Amazon Redshift](https://img.shields.io/badge/Amazon-Redshift-darkblue.svg)](https://aws.amazon.com/redshift/)
+[![Amazon EMR](https://img.shields.io/badge/Amazon-EMR-darkgreen.svg)](https://aws.amazon.com/emr/)
+[![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-teal.svg)](https://aws.amazon.com/rds/)
+[![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-navy.svg)](https://aws.amazon.com/vpc/)
+[![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-grey.svg)](https://aws.amazon.com/cloudformation/)
+[![Amazon Athena](https://img.shields.io/badge/Amazon-Athena-indigo.svg)](https://aws.amazon.com/athena/)
+[![AWS DeepLens](https://img.shields.io/badge/AWS-DeepLens-pink.svg)](https://aws.amazon.com/deeplens/)
+[![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-cyan.svg)](https://aws.amazon.com/ecs/)
+[![Docker](https://img.shields.io/badge/Docker-Container-blue.svg)](https://www.docker.com/)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple.svg)](https://aws.amazon.com/machine-learning/)
+
+[![Amazon S3](https://img.shields.io/badge/Amazon-S3-lightblue.svg)](https://aws.amazon.com/s3/)
+[![Amazon DynamoDB](https://img.shields.io/badge/Amazon-DynamoDB-darkorange.svg)](https://aws.amazon.com/dynamodb/)
+[![AWS IAM](https://img.shields.io/badge/AWS-IAM-darkred.svg)](https://aws.amazon.com/iam/)
+[![Amazon Polly](https://img.shields.io/badge/Amazon-Polly-lightgreen.svg)](https://aws.amazon.com/polly/)
+[![AWS CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange.svg)](https://aws.amazon.com/cloudwatch/)
+[![AWS CloudTrail](https://img.shields.io/badge/AWS-CloudTrail-darkgrey.svg)](https://aws.amazon.com/cloudtrail/)
+[![AWS Inspector](https://img.shields.io/badge/AWS-Inspector-darkpurple.svg)](https://aws.amazon.com/inspector/)
+[![Elastic Beanstalk](https://img.shields.io/badge/Elastic-Beanstalk-lightgrey.svg)](https://aws.amazon.com/elasticbeanstalk/)
+[![Auto Scaling](https://img.shields.io/badge/Auto-Scaling-darkcyan.svg)](https://aws.amazon.com/autoscaling/)
+[![Amazon Kinesis](https://img.shields.io/badge/Amazon-Kinesis-darkyellow.svg)](https://aws.amazon.com/kinesis/)
+[![Apache MXNet](https://img.shields.io/badge/Apache-MXNet-red.svg)](https://mxnet.apache.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-orange.svg)](https://tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-red.svg)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging-Face-yellow.svg)](https://huggingface.co/)
+
 Hey there! 👋 I'm Julien Simon, and this is my personal collection of AWS presentations and talks from my time as a Technical Evangelist at Amazon Web Services.
 
 From 2015 to 2021, I had the incredible opportunity to travel the world, meet amazing developers, and share the AWS story at hundreds of events - from massive re:Invent conferences to cozy local meetups. This repository is my way of preserving and sharing all those memories and knowledge.
